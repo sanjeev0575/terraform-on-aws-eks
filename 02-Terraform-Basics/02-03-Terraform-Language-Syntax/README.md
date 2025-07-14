@@ -42,12 +42,15 @@ resource "aws_instance" "ec2demo" { # BLOCK
 
 ## Step-04: Understand about Terraform Top-Level Blocks
 - Discuss about Terraform Top-Level blocks
+- Fundamental Blocks
   - Terraform Settings Block
   - Provider Block
   - Resource Block
+- Variable Blocks
   - Input Variables Block
   - Output Values Block
   - Local Values Block
+- calling/Referencing Block
   - Data Sources Block
   - Modules Block
 
